@@ -1,0 +1,6 @@
+# FCM_PURE_JAVA
+JAVA FCM CLIENT
+
+PURE JAVA를 이용한 FCM Client.
+
+TEST CLASS : fcm.FcmTestMain.java
